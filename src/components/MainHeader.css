@@ -47,6 +47,7 @@
 
 .main__header-image {
   position: relative;
+  /* z-index: 2px; */
 }
 
 .main__header-right:hover .main__header-circle {
