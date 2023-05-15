@@ -21,10 +21,10 @@ const Footer = () => {
           </p>
 
           <div className="footer__socials">
-            <a href="https://linkedin.com/Wisdom Eleeza" target="_blank" rel="noreferrer noopener"><FaLinkedin /></a>
-            <a href="https://facebook.com/Whizzdrums Eleeza" target="_blank" rel="noreferrer noopener"><FaFacebookF /></a>
-            <a href="https://twitter.com/Wisdom Eleeza" target="_blank" rel="noreferrer noopener"><AiOutlineTwitter /></a>
-            <a href="https://instagram.com/Whizzdrums" target="_blank" rel="noreferrer noopener"><AiFillInstagram /></a>
+            <a href="https://www.linkedin.com/in/wisdom-eleeza-56158a256/" target="_blank" rel="noreferrer noopener"><FaLinkedin /></a>
+            <a href="https://www.facebook.com/wisdom.eleeza" target="_blank" rel="noreferrer noopener"><FaFacebookF /></a>
+            <a href="https://twitter.com/WhizyMadeit" target="_blank" rel="noreferrer noopener"><AiOutlineTwitter /></a>
+            <a href="https://www.instagram.com/whizymadeit/?next=%2F" target="_blank" rel="noreferrer noopener"><AiFillInstagram /></a>
           </div>
         </article>
 
