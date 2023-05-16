@@ -1,4 +1,4 @@
-DeployedLink: https://gleeful-moonbeam-d44c64.netlify.app
+DeployedLink: https://react-gym-training-website.netlify.app/
 
 what I learn:
 1. How to use the react-icons
