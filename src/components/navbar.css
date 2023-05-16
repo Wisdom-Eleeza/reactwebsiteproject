@@ -99,4 +99,8 @@ nav {
     .hide__nav {
         display: none;
     }
+
+    .active-nav::after{
+        display: none;
+    }
 }

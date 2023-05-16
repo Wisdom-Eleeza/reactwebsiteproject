@@ -393,6 +393,9 @@ footer {
     .footer__container article {
       align-items: center;
     }
+    .footer__container:hover article a {
+      background: var(--color-secondary);
+    }
 
     .footer__container article p {
       text-align: center;
