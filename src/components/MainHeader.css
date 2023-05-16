@@ -42,6 +42,7 @@
   background: linear-gradient(75deg, var(--color-secondary), transparent);
   border-radius: 50%;
   position: absolute;
+  filter: blur(15px);
   transition: var(--transition);
 }
 
@@ -51,7 +52,7 @@
 }
 
 .main__header-right:hover .main__header-circle {
-  filter: blur(15px);
+  /* filter: blur(15px); */
 }
 
 /* ============================= PROGRAMS =========================== */
